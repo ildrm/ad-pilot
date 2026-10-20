@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "adpilot/ad-showcase",
+  "version": "0.1.0",
+  "title": "Ad Showcase",
+  "category": "widgets",
+  "icon": "megaphone",
+  "description": "Policy-aware advertising placement. Editor previews are nonbillable.",
+  "textdomain": "adpilot",
+  "attributes": {
+    "slotId": {
+      "type": "string",
+      "default": ""
+    },
+    "zoneId": {
+      "type": "string",
+      "default": ""
+    },
+    "containerId": {
+      "type": "string",
+      "default": ""
+    },
+    "interval": {
+      "type": "number",
+      "default": 5
+    },
+    "title": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "supports": {
+    "html": false,
+    "customClassName": false
+  },
+  "editorScript": "adpilot-blocks"
+}

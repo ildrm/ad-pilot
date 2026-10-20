@@ -1,0 +1,1911 @@
+# AdPilot translation template. Generated from application sources.
+msgid ""
+msgstr ""
+"Project-Id-Version: AdPilot 0.1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: adpilot\n"
+
+#: frontend/views.tsx:37
+msgid "A clear view of your advertising."
+msgstr ""
+
+#: frontend/views.tsx:1880
+msgid "A privacy administrator must change this setting."
+msgstr ""
+
+#: frontend/views.tsx:1651
+msgid "A separate workspace and membership boundary for each advertiser."
+msgstr ""
+
+#: frontend/commerce.tsx:450
+msgid "A temporary hold is not a confirmed commercial reservation or a paid order."
+msgstr ""
+
+#: frontend/commerce.tsx:509
+msgid "A verified commerce adapter and financial certification are required before payment can be accepted."
+msgstr ""
+
+#: frontend/views.tsx:356
+msgid "A zone groups your placements. Add a container to generate stable slots, then arrange them in Layout Studio."
+msgstr ""
+
+#: frontend/commerce.tsx:430
+msgid "Acquire temporary hold"
+msgstr ""
+
+#: frontend/ui.tsx:91
+msgid "Action needs attention"
+msgstr ""
+
+#: frontend/views.tsx:673 frontend/views.tsx:867
+msgid "Actions"
+msgstr ""
+
+#: src/Platform/Plugin.php:27
+msgid "Activate AdPilot separately for each site. Network-wide provisioning is not certified."
+msgstr ""
+
+#: frontend/views.tsx:788
+msgid "Activate manual entitlement"
+msgstr ""
+
+#: frontend/app.tsx:282
+msgid "Active organization"
+msgstr ""
+
+#: src/Platform/Plugin.php:101 src/Platform/Plugin.php:101 frontend/app.tsx:272
+msgid "AdPilot"
+msgstr ""
+
+#: frontend/api.ts:55
+msgid "AdPilot configuration is missing. Reload this page from WordPress."
+msgstr ""
+
+#: frontend/app.tsx:237
+msgid "AdPilot navigation"
+msgstr ""
+
+#: src/Delivery/Renderer.php:15
+msgid "AdPilot placement preview · nonbillable"
+msgstr ""
+
+#: src/Platform/Plugin.php:204
+msgid "AdPilot storage needs activation or a reviewed upgrade."
+msgstr ""
+
+#: frontend/studio.tsx:593
+msgid "Add a container to see your layout"
+msgstr ""
+
+#: frontend/studio.tsx:452 frontend/studio.tsx:693
+msgid "Add container"
+msgstr ""
+
+#: frontend/views.tsx:1623
+msgid "Advanced analytics"
+msgstr ""
+
+#: src/Platform/Plugin.php:146
+msgid "Advertisement"
+msgstr ""
+
+#: frontend/views.tsx:1175
+msgid "Advertisement · preview only"
+msgstr ""
+
+#: frontend/views.tsx:1805
+msgid "Advertiser organization signup"
+msgstr ""
+
+#: frontend/views.tsx:627 frontend/views.tsx:829
+msgid "Advertiser organizations"
+msgstr ""
+
+#: frontend/app.tsx:234 frontend/views.tsx:618 frontend/views.tsx:1126 frontend/views.tsx:1649
+msgid "Advertiser workspace"
+msgstr ""
+
+#: frontend/views.tsx:1404
+msgid "Advertising marketplace"
+msgstr ""
+
+#: frontend/app.tsx:330
+msgid "Advertising operations, clearly."
+msgstr ""
+
+#: src/Commerce/WooCommerce.php:40 src/Delivery/Renderer.php:45
+msgid "Advertising placement"
+msgstr ""
+
+#: frontend/app.tsx:332
+msgid "All actions are subject to server authorization."
+msgstr ""
+
+#: frontend/views.tsx:1755
+msgid "All advertising delivery is stopped"
+msgstr ""
+
+#: frontend/views.tsx:59
+msgid "All campaign states"
+msgstr ""
+
+#: frontend/commerce.tsx:108
+msgid "An exact integer string. For precision 2, 2500 means 25.00."
+msgstr ""
+
+#: frontend/views.tsx:1697
+msgid "An organization keeps its campaigns, creatives, and reports separate from other advertisers."
+msgstr ""
+
+#: frontend/views.tsx:669
+msgid "Approval"
+msgstr ""
+
+#: frontend/views.tsx:1278
+msgid "Approve creative version"
+msgstr ""
+
+#: frontend/views.tsx:1217
+msgid "Approve version"
+msgstr ""
+
+#: frontend/studio.tsx:222
+msgid "Arrange your inventory once. Keep every logical slot identity intact."
+msgstr ""
+
+#: frontend/views.tsx:1981
+msgid "Availability"
+msgstr ""
+
+#: frontend/views.tsx:1453
+msgid "Availability and delivery eligibility are checked by the server for your campaign schedule."
+msgstr ""
+
+#: frontend/views.tsx:2057
+msgid "Available"
+msgstr ""
+
+#: frontend/views.tsx:1802
+msgid "Available through the dedicated commerce certification workflow."
+msgstr ""
+
+#: frontend/views.tsx:64
+msgid "Awaiting review"
+msgstr ""
+
+#: frontend/studio.tsx:1005 frontend/views.tsx:541
+msgid "Banner"
+msgstr ""
+
+#: frontend/views.tsx:1348
+msgid "Body copy"
+msgstr ""
+
+#: frontend/commerce.tsx:281
+msgid "Booking progress"
+msgstr ""
+
+#: frontend/views.tsx:1559 frontend/views.tsx:1588
+msgid "Browser render claims"
+msgstr ""
+
+#: frontend/views.tsx:351
+msgid "Build your first placement zone"
+msgstr ""
+
+#: frontend/app.tsx:259
+msgid "Built for your site."
+msgstr ""
+
+#: frontend/views.tsx:667 frontend/views.tsx:1557
+msgid "Campaign"
+msgstr ""
+
+#: frontend/views.tsx:804
+msgid "Campaign action completed."
+msgstr ""
+
+#: frontend/views.tsx:985
+msgid "Campaign created. Delivery remains subject to approval and eligibility."
+msgstr ""
+
+#: frontend/views.tsx:1015
+msgid "Campaign name"
+msgstr ""
+
+#: frontend/app.tsx:51 frontend/app.tsx:97 frontend/views.tsx:58 frontend/views.tsx:619
+msgid "Campaigns"
+msgstr ""
+
+#: frontend/studio.tsx:856 frontend/studio.tsx:899 frontend/views.tsx:568 frontend/views.tsx:1080 frontend/views.tsx:1375 frontend/views.tsx:1733 frontend/commerce.tsx:188 frontend/ui.tsx:284
+msgid "Cancel"
+msgstr ""
+
+#: frontend/studio.tsx:477
+msgid "Canvas"
+msgstr ""
+
+#: frontend/studio.tsx:999 frontend/views.tsx:534
+msgid "Cell aspect ratio"
+msgstr ""
+
+#: frontend/views.tsx:155
+msgid "Check system health"
+msgstr ""
+
+#: frontend/views.tsx:2013
+msgid "Checkout adapters, advanced pricing, heatmaps, replay, and network federation require their verified module and policy gates. No external service is implied by the presence of this console."
+msgstr ""
+
+#: frontend/views.tsx:1797
+msgid "Checkout is configured"
+msgstr ""
+
+#: frontend/commerce.tsx:506
+msgid "Checkout unavailable"
+msgstr ""
+
+#: frontend/studio.tsx:621
+msgid "Choose a container in the structure tree to inspect its persisted slot identities."
+msgstr ""
+
+#: frontend/placement-picker.tsx:58
+msgid "Choose a placement"
+msgstr ""
+
+#: frontend/blocks.tsx:205
+msgid "Choose a published placement in the block settings."
+msgstr ""
+
+#: frontend/views.tsx:472
+msgid "Choose a zone"
+msgstr ""
+
+#: frontend/views.tsx:644 frontend/views.tsx:1152 frontend/views.tsx:1539 frontend/commerce.tsx:541
+msgid "Choose an organization"
+msgstr ""
+
+#: frontend/views.tsx:1464
+msgid "Choose an organization above to request a quote."
+msgstr ""
+
+#: frontend/views.tsx:1040
+msgid "Choose creative"
+msgstr ""
+
+#: frontend/app.tsx:292 frontend/views.tsx:1006
+msgid "Choose organization"
+msgstr ""
+
+#: frontend/commerce.tsx:341
+msgid "Choose published rate"
+msgstr ""
+
+#: frontend/views.tsx:1153
+msgid "Choose your organization above to view its creative library."
+msgstr ""
+
+#: frontend/ui.tsx:189
+msgid "Close dialog"
+msgstr ""
+
+#: frontend/views.tsx:1777
+msgid "Collection may run when consent permits"
+msgstr ""
+
+#: frontend/studio.tsx:975 frontend/views.tsx:503
+msgid "Columns"
+msgstr ""
+
+#: frontend/views.tsx:1801
+msgid "Commerce certification reference"
+msgstr ""
+
+#: frontend/views.tsx:485
+msgid "Commercial availability is evaluated separately."
+msgstr ""
+
+#: frontend/studio.tsx:747
+msgid "Commercial capacity and observed delivery are evaluated separately."
+msgstr ""
+
+#: frontend/views.tsx:1764
+msgid "Complimentary activation is disabled"
+msgstr ""
+
+#: frontend/views.tsx:1763
+msgid "Complimentary activation is enabled"
+msgstr ""
+
+#: frontend/views.tsx:156
+msgid "Configuration and delivery diagnostics"
+msgstr ""
+
+#: frontend/views.tsx:169
+msgid "Configured capacity and observed delivery are different measures."
+msgstr ""
+
+#: frontend/studio.tsx:610
+msgid "Configured inventory"
+msgstr ""
+
+#: frontend/studio.tsx:892 frontend/views.tsx:52 frontend/views.tsx:288
+msgid "Configured slots"
+msgstr ""
+
+#: frontend/views.tsx:926
+msgid "Confirm that your organization verification requirements have been satisfied."
+msgstr ""
+
+#: frontend/studio.tsx:962
+msgid "Container presentation saved."
+msgstr ""
+
+#: frontend/studio.tsx:714
+msgid "Containers"
+msgstr ""
+
+#: frontend/views.tsx:1806
+msgid "Controls whether signed-in members may create their own advertiser organization."
+msgstr ""
+
+#: frontend/views.tsx:1613
+msgid "Counts describe different qualification stages and must not be added together. Missing financial data is not represented as zero."
+msgstr ""
+
+#: frontend/views.tsx:1477
+msgid "Create a campaign"
+msgstr ""
+
+#: frontend/views.tsx:762
+msgid "Create a campaign with a published placement, a creative, and a defined schedule. The server evaluates all delivery gates separately."
+msgstr ""
+
+#: frontend/views.tsx:992
+msgid "Create a scheduled campaign draft. This does not reserve inventory, collect payment, or guarantee delivery."
+msgstr ""
+
+#: frontend/views.tsx:423
+msgid "Create a slot container"
+msgstr ""
+
+#: frontend/views.tsx:1254
+msgid "Create a text creative with a safe destination URL, then submit it for moderation."
+msgstr ""
+
+#: frontend/views.tsx:423
+msgid "Create a zone"
+msgstr ""
+
+#: frontend/studio.tsx:366
+msgid "Create a zone, add a container with your requested slot count, then save and publish a layout draft."
+msgstr ""
+
+#: frontend/views.tsx:909
+msgid "Create an organization to provision an advertiser workspace."
+msgstr ""
+
+#: frontend/views.tsx:1030
+msgid "Create and submit your creative from the Creatives screen."
+msgstr ""
+
+#: frontend/views.tsx:637 frontend/views.tsx:967
+msgid "Create campaign"
+msgstr ""
+
+#: frontend/views.tsx:205
+msgid "Create container"
+msgstr ""
+
+#: frontend/views.tsx:578
+msgid "Create container & slots"
+msgstr ""
+
+#: frontend/views.tsx:1145
+msgid "Create creative"
+msgstr ""
+
+#: frontend/studio.tsx:863
+msgid "Create draft"
+msgstr ""
+
+#: frontend/views.tsx:1089
+msgid "Create draft campaign"
+msgstr ""
+
+#: frontend/studio.tsx:361
+msgid "Create first zone"
+msgstr ""
+
+#: frontend/studio.tsx:772
+msgid "Create layout draft"
+msgstr ""
+
+#: frontend/views.tsx:854 frontend/views.tsx:1656 frontend/views.tsx:1705 frontend/views.tsx:1736
+msgid "Create organization"
+msgstr ""
+
+#: frontend/views.tsx:99
+msgid "Create reusable zones, generate stable slots, and publish a compact layout for your site."
+msgstr ""
+
+#: frontend/views.tsx:1315
+msgid "Create text creative"
+msgstr ""
+
+#: frontend/commerce.tsx:467
+msgid "Create unpaid order"
+msgstr ""
+
+#: frontend/views.tsx:1696
+msgid "Create your advertiser workspace"
+msgstr ""
+
+#: frontend/studio.tsx:383 frontend/views.tsx:205 frontend/views.tsx:579
+msgid "Create zone"
+msgstr ""
+
+#: frontend/studio.tsx:863 frontend/views.tsx:576 frontend/views.tsx:1089 frontend/views.tsx:1736 frontend/commerce.tsx:467
+msgid "Creating…"
+msgstr ""
+
+#: frontend/views.tsx:1029
+msgid "Creative"
+msgstr ""
+
+#: frontend/views.tsx:65
+msgid "Creative decisions to make"
+msgstr ""
+
+#: frontend/views.tsx:1165
+msgid "Creative material"
+msgstr ""
+
+#: frontend/views.tsx:1127
+msgid "Creative moderation"
+msgstr ""
+
+#: frontend/views.tsx:1322
+msgid "Creative saved as a draft."
+msgstr ""
+
+#: frontend/views.tsx:1199
+msgid "Creative submitted for review."
+msgstr ""
+
+#: frontend/app.tsx:57 frontend/app.tsx:103 frontend/views.tsx:1127
+msgid "Creatives"
+msgstr ""
+
+#: frontend/commerce.tsx:89
+msgid "Currency precision"
+msgstr ""
+
+#: frontend/views.tsx:2026
+msgid "Database schema version"
+msgstr ""
+
+#: frontend/views.tsx:1756
+msgid "Delivery is permitted when campaigns are eligible"
+msgstr ""
+
+#: frontend/views.tsx:1532
+msgid "Delivery selections, browser render claims, and clicks are separate measures. Browser claims are untrusted and nonbillable."
+msgstr ""
+
+#: frontend/views.tsx:71
+msgid "Delivery selections, not impressions"
+msgstr ""
+
+#: frontend/views.tsx:1545
+msgid "Delivery summary"
+msgstr ""
+
+#: frontend/views.tsx:284 frontend/views.tsx:554
+msgid "Description"
+msgstr ""
+
+#: frontend/views.tsx:1358
+msgid "Destination URL"
+msgstr ""
+
+#: frontend/views.tsx:1184 frontend/views.tsx:1283
+msgid "Digest"
+msgstr ""
+
+#: frontend/views.tsx:1906
+msgid "Disabled"
+msgstr ""
+
+#: frontend/studio.tsx:145
+msgid "Discard unsaved layout changes and leave Layout Studio?"
+msgstr ""
+
+#: frontend/studio.tsx:193
+msgid "Discard unsaved layout changes and switch views?"
+msgstr ""
+
+#: frontend/views.tsx:1340
+msgid "Display title"
+msgstr ""
+
+#: frontend/views.tsx:916 frontend/commerce.tsx:520
+msgid "Done"
+msgstr ""
+
+#: frontend/studio.tsx:124
+msgid "Draft saved. Validate the saved version before publishing."
+msgstr ""
+
+#: frontend/studio.tsx:743 frontend/studio.tsx:888
+msgid "Draft version"
+msgstr ""
+
+#: frontend/blocks.tsx:178
+msgid "Editor label"
+msgstr ""
+
+#: frontend/blocks.tsx:214
+msgid "Eligible content interval"
+msgstr ""
+
+#: frontend/views.tsx:790
+msgid "Emergency stop"
+msgstr ""
+
+#: frontend/views.tsx:1905
+msgid "Enabled"
+msgstr ""
+
+#: frontend/views.tsx:1999
+msgid "Enabled for this site"
+msgstr ""
+
+#: frontend/studio.tsx:602
+msgid "End of page"
+msgstr ""
+
+#: frontend/views.tsx:1061 frontend/commerce.tsx:369
+msgid "End time"
+msgstr ""
+
+#: frontend/views.tsx:974 frontend/commerce.tsx:307
+msgid "End time must be later than start time."
+msgstr ""
+
+#: frontend/views.tsx:672
+msgid "Ends"
+msgstr ""
+
+#: frontend/views.tsx:670
+msgid "Entitlement"
+msgstr ""
+
+#: frontend/views.tsx:1787
+msgid "Event retention (days)"
+msgstr ""
+
+#: frontend/studio.tsx:702
+msgid "Every slot has a place."
+msgstr ""
+
+#: frontend/commerce.tsx:555
+msgid "Exact order total"
+msgstr ""
+
+#: frontend/views.tsx:1983
+msgid "Explanation"
+msgstr ""
+
+#: frontend/commerce.tsx:412
+msgid "Explicitly not applicable"
+msgstr ""
+
+#: frontend/views.tsx:1416
+msgid "Explore placements"
+msgstr ""
+
+#: frontend/views.tsx:1406
+msgid "Explore published placements and choose a setting for your next campaign."
+msgstr ""
+
+#: frontend/views.tsx:1980
+msgid "Feature"
+msgstr ""
+
+#: frontend/views.tsx:1974
+msgid "Feature availability"
+msgstr ""
+
+#: frontend/placement-picker.tsx:22
+msgid "Find placement"
+msgstr ""
+
+#: frontend/views.tsx:1405
+msgid "Find your place on this site."
+msgstr ""
+
+#: frontend/views.tsx:294
+msgid "Fixed rates"
+msgstr ""
+
+#: frontend/commerce.tsx:64
+msgid "Fixed-window rate published."
+msgstr ""
+
+#: frontend/studio.tsx:988 frontend/views.tsx:522
+msgid "Gap (px)"
+msgstr ""
+
+#: frontend/views.tsx:448
+msgid "Generate persistent slot identities in one compact container. Preview cells do not serve ads or create measurement."
+msgstr ""
+
+#: frontend/views.tsx:451
+msgid "Give this part of your site a clear, reusable name."
+msgstr ""
+
+#: frontend/app.tsx:174
+msgid "Go to your workspace"
+msgstr ""
+
+#: frontend/app.tsx:308
+msgid "Guest"
+msgstr ""
+
+#: frontend/views.tsx:1625
+msgid "Heatmaps require R2 privacy and aggregation gates. Metered billing requires R3; session replay requires R4 and separate consent. These features are not enabled here."
+msgstr ""
+
+#: frontend/commerce.tsx:282
+msgid "Hold"
+msgstr ""
+
+#: frontend/commerce.tsx:447
+msgid "Hold expires"
+msgstr ""
+
+#: frontend/commerce.tsx:172
+msgid "Hold lifetime (seconds)"
+msgstr ""
+
+#: frontend/commerce.tsx:154
+msgid "I confirm that tax is explicitly not applicable under the referenced policy."
+msgstr ""
+
+#: frontend/commerce.tsx:75
+msgid "ISO currency code"
+msgstr ""
+
+#: frontend/views.tsx:1782
+msgid "Identify the approved privacy policy for purpose-specific event collection."
+msgstr ""
+
+#: frontend/views.tsx:1768
+msgid "Identify the approved publisher policy governing complimentary campaign reservations."
+msgstr ""
+
+#: frontend/studio.tsx:819
+msgid "Include zones"
+msgstr ""
+
+#: frontend/blocks.tsx:170
+msgid "Insert after every eligible content item"
+msgstr ""
+
+#: frontend/views.tsx:148
+msgid "Inspect lifecycle and eligibility"
+msgstr ""
+
+#: frontend/studio.tsx:664
+msgid "Inspector"
+msgstr ""
+
+#: frontend/views.tsx:2054
+msgid "Installed"
+msgstr ""
+
+#: frontend/views.tsx:1331
+msgid "Internal name"
+msgstr ""
+
+#: frontend/app.tsx:83 frontend/views.tsx:192
+msgid "Inventory"
+msgstr ""
+
+#: frontend/views.tsx:442
+msgid "Inventory created."
+msgstr ""
+
+#: frontend/studio.tsx:316
+msgid "Inventory preview"
+msgstr ""
+
+#: frontend/studio.tsx:744
+msgid "Inventory preview. Create or open a draft to validate and publish."
+msgstr ""
+
+#: frontend/views.tsx:94
+msgid "Inventory that stays organized."
+msgstr ""
+
+#: frontend/views.tsx:214
+msgid "Inventory type"
+msgstr ""
+
+#: frontend/app.tsx:261
+msgid "Inventory, creative, and delivery — with clear boundaries."
+msgstr ""
+
+#: frontend/views.tsx:130
+msgid "Keep things moving"
+msgstr ""
+
+#: frontend/studio.tsx:1006 frontend/views.tsx:543
+msgid "Landscape"
+msgstr ""
+
+#: frontend/studio.tsx:884
+msgid "Layout"
+msgstr ""
+
+#: frontend/app.tsx:90 frontend/studio.tsx:221
+msgid "Layout Studio"
+msgstr ""
+
+#: frontend/studio.tsx:788
+msgid "Layout draft created."
+msgstr ""
+
+#: frontend/studio.tsx:808
+msgid "Layout name"
+msgstr ""
+
+#: frontend/studio.tsx:464
+msgid "Layout preview"
+msgstr ""
+
+#: frontend/studio.tsx:908
+msgid "Layout published. Stable inventory identities preserved."
+msgstr ""
+
+#: frontend/studio.tsx:303
+msgid "Layout workspace"
+msgstr ""
+
+#: frontend/views.tsx:668
+msgid "Lifecycle"
+msgstr ""
+
+#: frontend/views.tsx:1039
+msgid "Loading creatives…"
+msgstr ""
+
+#: frontend/ui.tsx:114
+msgid "Loading current site data…"
+msgstr ""
+
+#: frontend/app.tsx:291
+msgid "Loading organizations…"
+msgstr ""
+
+#: frontend/placement-picker.tsx:56
+msgid "Loading placements…"
+msgstr ""
+
+#: frontend/views.tsx:472
+msgid "Loading zones…"
+msgstr ""
+
+#: frontend/views.tsx:365
+msgid "Logical slot identities remain stable across responsive presentation changes. A configured slot is not a reservation or a measured impression."
+msgstr ""
+
+#: frontend/studio.tsx:718 frontend/views.tsx:109 frontend/views.tsx:484
+msgid "Logical slots"
+msgstr ""
+
+#: frontend/views.tsx:147
+msgid "Manage campaign delivery"
+msgstr ""
+
+#: frontend/views.tsx:705
+msgid "Manual activation"
+msgstr ""
+
+#: frontend/views.tsx:1767
+msgid "Manual activation policy reference"
+msgstr ""
+
+#: frontend/views.tsx:1759
+msgid "Manual campaign activation"
+msgstr ""
+
+#: frontend/app.tsx:45
+msgid "Marketplace"
+msgstr ""
+
+#: frontend/studio.tsx:613
+msgid "Maximum 120 representative cells. Real identities are in Slot navigator."
+msgstr ""
+
+#: frontend/views.tsx:1788
+msgid "Maximum lifetime of collected measurement events under the approved policy."
+msgstr ""
+
+#: frontend/views.tsx:1773
+msgid "Measurement collection"
+msgstr ""
+
+#: frontend/views.tsx:1778
+msgid "Measurement collection is disabled"
+msgstr ""
+
+#: frontend/views.tsx:1781
+msgid "Measurement policy reference"
+msgstr ""
+
+#: frontend/views.tsx:1809
+msgid "Members may create organizations"
+msgstr ""
+
+#: frontend/studio.tsx:441
+msgid "Move zone down"
+msgstr ""
+
+#: frontend/studio.tsx:433
+msgid "Move zone up"
+msgstr ""
+
+#: frontend/app.tsx:272
+msgid "My advertising"
+msgstr ""
+
+#: frontend/views.tsx:280 frontend/views.tsx:453
+msgid "Name"
+msgstr ""
+
+#: frontend/studio.tsx:337
+msgid "New draft"
+msgstr ""
+
+#: frontend/views.tsx:845
+msgid "New organization name"
+msgstr ""
+
+#: frontend/blocks.tsx:164 frontend/ui.tsx:222
+msgid "Next"
+msgstr ""
+
+#: frontend/views.tsx:129
+msgid "Next decisions"
+msgstr ""
+
+#: frontend/views.tsx:2031
+msgid "Next maintenance run"
+msgstr ""
+
+#: frontend/views.tsx:908
+msgid "No advertiser organizations"
+msgstr ""
+
+#: frontend/views.tsx:1577
+msgid "No campaign measurements yet"
+msgstr ""
+
+#: frontend/views.tsx:761
+msgid "No campaigns yet"
+msgstr ""
+
+#: frontend/views.tsx:2023
+msgid "No diagnostic data returned."
+msgstr ""
+
+#: frontend/views.tsx:1935
+msgid "No editable site settings were returned by the server."
+msgstr ""
+
+#: frontend/views.tsx:350
+msgid "No matching inventory"
+msgstr ""
+
+#: frontend/placement-picker.tsx:59
+msgid "No matching placements"
+msgstr ""
+
+#: frontend/commerce.tsx:595
+msgid "No orders yet"
+msgstr ""
+
+#: frontend/placement-picker.tsx:80
+msgid "No placement selected"
+msgstr ""
+
+#: frontend/views.tsx:1491
+msgid "No published placements available"
+msgstr ""
+
+#: frontend/commerce.tsx:296
+msgid "No published rate for this placement"
+msgstr ""
+
+#: frontend/views.tsx:1606
+msgid "Not available"
+msgstr ""
+
+#: frontend/views.tsx:2055
+msgid "Not installed"
+msgstr ""
+
+#: frontend/views.tsx:2061 frontend/views.tsx:2089
+msgid "Not reported"
+msgstr ""
+
+#: frontend/views.tsx:2044
+msgid "Not scheduled"
+msgstr ""
+
+#: frontend/commerce.tsx:90
+msgid "Number of fractional digits in one major unit."
+msgstr ""
+
+#: frontend/views.tsx:193
+msgid "One registry for zones, containers, and stable placement identities."
+msgstr ""
+
+#: frontend/app.tsx:157
+msgid "Open AdPilot from WordPress"
+msgstr ""
+
+#: frontend/views.tsx:119
+msgid "Open Layout Studio"
+msgstr ""
+
+#: frontend/commerce.tsx:282 frontend/commerce.tsx:495 frontend/commerce.tsx:553
+msgid "Order"
+msgstr ""
+
+#: frontend/commerce.tsx:491
+msgid "Order created"
+msgstr ""
+
+#: frontend/commerce.tsx:542
+msgid "Orders are visible only within the selected organization."
+msgstr ""
+
+#: frontend/studio.tsx:632 frontend/views.tsx:290
+msgid "Ordinal"
+msgstr ""
+
+#: frontend/app.tsx:69 frontend/views.tsx:865 frontend/views.tsx:997 frontend/views.tsx:1650 frontend/views.tsx:1668
+msgid "Organization"
+msgstr ""
+
+#: frontend/views.tsx:841
+msgid "Organization created with your owner membership."
+msgstr ""
+
+#: frontend/views.tsx:1714
+msgid "Organization created."
+msgstr ""
+
+#: frontend/views.tsx:1718
+msgid "Organization name"
+msgstr ""
+
+#: frontend/views.tsx:935
+msgid "Organization status updated."
+msgstr ""
+
+#: frontend/app.tsx:77
+msgid "Overview"
+msgstr ""
+
+#: frontend/blocks.tsx:148 frontend/ui.tsx:214
+msgid "Page"
+msgstr ""
+
+#: frontend/studio.tsx:392
+msgid "Page layout"
+msgstr ""
+
+#: frontend/commerce.tsx:501 frontend/commerce.tsx:556
+msgid "Paid"
+msgstr ""
+
+#: frontend/views.tsx:1793
+msgid "Paid checkout"
+msgstr ""
+
+#: frontend/views.tsx:1798
+msgid "Paid checkout is unavailable"
+msgstr ""
+
+#: frontend/views.tsx:727
+msgid "Pause"
+msgstr ""
+
+#: frontend/views.tsx:792
+msgid "Pause campaign"
+msgstr ""
+
+#: frontend/commerce.tsx:554
+msgid "Payment state"
+msgstr ""
+
+#: frontend/views.tsx:2030
+msgid "Pending background events"
+msgstr ""
+
+#: frontend/views.tsx:53
+msgid "Persistent inventory positions"
+msgstr ""
+
+#: frontend/placement-picker.tsx:37
+msgid "Placement results"
+msgstr ""
+
+#: frontend/blocks.tsx:108
+msgid "Placement settings"
+msgstr ""
+
+#: frontend/views.tsx:2025
+msgid "Plugin version"
+msgstr ""
+
+#: frontend/commerce.tsx:414
+msgid "Policy reference"
+msgstr ""
+
+#: frontend/views.tsx:1130
+msgid "Prepare safe creative material and submit the exact version for review."
+msgstr ""
+
+#: frontend/studio.tsx:974
+msgid "Presentation"
+msgstr ""
+
+#: frontend/studio.tsx:727
+msgid "Preview is synthetic and nonbillable. Publishing requires server validation and current authorization."
+msgstr ""
+
+#: frontend/studio.tsx:470
+msgid "Preview mode"
+msgstr ""
+
+#: frontend/studio.tsx:491
+msgid "Preview width"
+msgstr ""
+
+#: frontend/blocks.tsx:157 frontend/ui.tsx:219
+msgid "Previous"
+msgstr ""
+
+#: frontend/commerce.tsx:107
+msgid "Price in minor units"
+msgstr ""
+
+#: frontend/commerce.tsx:46
+msgid "Publish a fixed-window rate"
+msgstr ""
+
+#: frontend/views.tsx:335
+msgid "Publish fixed rate"
+msgstr ""
+
+#: frontend/studio.tsx:265 frontend/studio.tsx:918
+msgid "Publish layout"
+msgstr ""
+
+#: frontend/commerce.tsx:195
+msgid "Publish rate version"
+msgstr ""
+
+#: frontend/views.tsx:328
+msgid "Publish the slot in a layout before publishing a rate."
+msgstr ""
+
+#: frontend/studio.tsx:874
+msgid "Publish validated layout"
+msgstr ""
+
+#: frontend/commerce.tsx:334
+msgid "Published fixed-window rate"
+msgstr ""
+
+#: frontend/studio.tsx:741
+msgid "Published immutable layout. Create a new draft to change its references."
+msgstr ""
+
+#: frontend/views.tsx:1448
+msgid "Published inventory"
+msgstr ""
+
+#: frontend/placement-picker.tsx:21
+msgid "Published placement"
+msgstr ""
+
+#: frontend/app.tsx:234
+msgid "Publisher console"
+msgstr ""
+
+#: frontend/views.tsx:1810
+msgid "Publisher provisioning is required"
+msgstr ""
+
+#: frontend/ui.tsx:144
+msgid "Publisher workspace"
+msgstr ""
+
+#: frontend/studio.tsx:918 frontend/commerce.tsx:195
+msgid "Publishing…"
+msgstr ""
+
+#: frontend/views.tsx:1578
+msgid "Qualified delivery activity will appear here once campaigns are eligible and serving."
+msgstr ""
+
+#: frontend/commerce.tsx:282
+msgid "Quote"
+msgstr ""
+
+#: frontend/commerce.tsx:274
+msgid "Quote & reserve a placement"
+msgstr ""
+
+#: frontend/commerce.tsx:405
+msgid "Quote expires"
+msgstr ""
+
+#: frontend/commerce.tsx:160
+msgid "Quote lifetime (seconds)"
+msgstr ""
+
+#: frontend/commerce.tsx:277
+msgid "Quote, temporary hold, order, and verified payment are separate states. No payment is collected here."
+msgstr ""
+
+#: frontend/ui.tsx:270
+msgid "Reason"
+msgstr ""
+
+#: frontend/views.tsx:1560 frontend/views.tsx:1589
+msgid "Recorded clicks"
+msgstr ""
+
+#: frontend/studio.tsx:344
+msgid "Redo"
+msgstr ""
+
+#: frontend/views.tsx:43
+msgid "Refresh data"
+msgstr ""
+
+#: frontend/commerce.tsx:385
+msgid "Refresh quote"
+msgstr ""
+
+#: frontend/views.tsx:1535
+msgid "Refresh report"
+msgstr ""
+
+#: frontend/views.tsx:167
+msgid "Refresh to request current aggregates"
+msgstr ""
+
+#: frontend/views.tsx:1235
+msgid "Reject"
+msgstr ""
+
+#: frontend/views.tsx:1280
+msgid "Reject creative version"
+msgstr ""
+
+#: frontend/views.tsx:1982
+msgid "Release"
+msgstr ""
+
+#: frontend/views.tsx:2011
+msgid "Release boundaries"
+msgstr ""
+
+#: frontend/commerce.tsx:482
+msgid "Release hold"
+msgstr ""
+
+#: frontend/app.tsx:63 frontend/app.tsx:109 frontend/views.tsx:1531
+msgid "Reports"
+msgstr ""
+
+#: frontend/views.tsx:1540
+msgid "Reports are scoped to the selected organization."
+msgstr ""
+
+#: frontend/blocks.tsx:208
+msgid "Representative editor preview · no advertising served · no measurement generated"
+msgstr ""
+
+#: frontend/commerce.tsx:596
+msgid "Request a published rate quote, acquire a temporary hold, then create an order. Payment remains separately verified."
+msgstr ""
+
+#: frontend/views.tsx:1227 frontend/views.tsx:1281
+msgid "Request changes"
+msgstr ""
+
+#: frontend/commerce.tsx:386
+msgid "Request quote"
+msgstr ""
+
+#: frontend/commerce.tsx:133
+msgid "Required evidence that this transaction class has no applicable tax. Other tax regimes need a certified adapter."
+msgstr ""
+
+#: frontend/views.tsx:795
+msgid "Requires a verified organization, an approved creative version, and an enabled manual entitlement policy. This creates a complimentary reservation, not a payment."
+msgstr ""
+
+#: frontend/views.tsx:1760
+msgid "Requires an approved policy before complimentary reservations can be created."
+msgstr ""
+
+#: frontend/views.tsx:1774
+msgid "Requires an authoritative consent adapter, approved policy, and retention period. Collection remains gated by the production context."
+msgstr ""
+
+#: frontend/commerce.tsx:430
+msgid "Reserving…"
+msgstr ""
+
+#: frontend/ui.tsx:212
+msgid "Results pages"
+msgstr ""
+
+#: frontend/views.tsx:726
+msgid "Resume"
+msgstr ""
+
+#: frontend/views.tsx:793
+msgid "Resume campaign"
+msgstr ""
+
+#: frontend/app.tsx:316
+msgid "Retry organizations"
+msgstr ""
+
+#: frontend/studio.tsx:683
+msgid "Reusable inventory zone."
+msgstr ""
+
+#: frontend/views.tsx:1597
+msgid "Revenue"
+msgstr ""
+
+#: frontend/views.tsx:136
+msgid "Review creative submissions"
+msgstr ""
+
+#: frontend/views.tsx:1296
+msgid "Review decision recorded."
+msgstr ""
+
+#: frontend/views.tsx:1133
+msgid "Review the submitted content and its immutable digest before making a decision."
+msgstr ""
+
+#: frontend/views.tsx:1961
+msgid "Run checks again"
+msgstr ""
+
+#: frontend/views.tsx:2078
+msgid "Runtime check"
+msgstr ""
+
+#: frontend/views.tsx:1959
+msgid "Runtime diagnostics"
+msgstr ""
+
+#: frontend/studio.tsx:231 frontend/views.tsx:1378
+msgid "Save draft"
+msgstr ""
+
+#: frontend/studio.tsx:1016
+msgid "Save presentation"
+msgstr ""
+
+#: frontend/views.tsx:1945
+msgid "Save settings"
+msgstr ""
+
+#: frontend/studio.tsx:867
+msgid "Save your current draft before creating another."
+msgstr ""
+
+#: frontend/studio.tsx:743
+msgid "Save → Validate → Publish."
+msgstr ""
+
+#: frontend/ui.tsx:91
+msgid "Saved"
+msgstr ""
+
+#: frontend/studio.tsx:278
+msgid "Saved draft is valid"
+msgstr ""
+
+#: frontend/studio.tsx:1016 frontend/views.tsx:1378 frontend/views.tsx:1945
+msgid "Saving…"
+msgstr ""
+
+#: frontend/studio.tsx:585
+msgid "Schematic preview · no impressions"
+msgstr ""
+
+#: frontend/ui.tsx:231
+msgid "Search by name…"
+msgstr ""
+
+#: frontend/placement-picker.tsx:29
+msgid "Search by zone, name, or identity…"
+msgstr ""
+
+#: frontend/views.tsx:657
+msgid "Search campaigns…"
+msgstr ""
+
+#: frontend/views.tsx:261
+msgid "Search inventory…"
+msgstr ""
+
+#: frontend/placement-picker.tsx:38
+msgid "Search or change page to reach all published slots. Your selection is kept while browsing."
+msgstr ""
+
+#: frontend/views.tsx:1435
+msgid "Search placements…"
+msgstr ""
+
+#: frontend/blocks.tsx:117
+msgid "Search published slots"
+msgstr ""
+
+#: frontend/commerce.tsx:413
+msgid "See published terms"
+msgstr ""
+
+#: frontend/studio.tsx:620
+msgid "Select a container"
+msgstr ""
+
+#: frontend/studio.tsx:704
+msgid "Select a container on the canvas or in the tree to inspect its count, grid, and persistent identity."
+msgstr ""
+
+#: frontend/blocks.tsx:133
+msgid "Select a placement…"
+msgstr ""
+
+#: frontend/studio.tsx:595
+msgid "Select a zone and create a container with a logical slot count."
+msgstr ""
+
+#: frontend/views.tsx:645
+msgid "Select your organization above or create one in Organization to manage campaigns."
+msgstr ""
+
+#: frontend/placement-picker.tsx:79
+msgid "Selected"
+msgstr ""
+
+#: frontend/studio.tsx:661
+msgid "Selection inspector"
+msgstr ""
+
+#: frontend/views.tsx:1558
+msgid "Served"
+msgstr ""
+
+#: frontend/views.tsx:70 frontend/views.tsx:1587
+msgid "Served decisions"
+msgstr ""
+
+#: frontend/commerce.tsx:394
+msgid "Server quote"
+msgstr ""
+
+#: frontend/studio.tsx:246
+msgid "Server validation completed. Review the result below."
+msgstr ""
+
+#: frontend/app.tsx:115
+msgid "Settings"
+msgstr ""
+
+#: frontend/views.tsx:1837
+msgid "Settings & system health"
+msgstr ""
+
+#: frontend/views.tsx:1860
+msgid "Settings saved."
+msgstr ""
+
+#: src/Platform/Plugin.php:168
+msgid "Sign in to your advertiser account"
+msgstr ""
+
+#: frontend/views.tsx:164
+msgid "Site aggregates"
+msgstr ""
+
+#: frontend/views.tsx:1845
+msgid "Site configuration"
+msgstr ""
+
+#: frontend/views.tsx:1838
+msgid "Site configuration, runtime checks, and feature availability."
+msgstr ""
+
+#: frontend/views.tsx:264
+msgid "Site inventory"
+msgstr ""
+
+#: frontend/app.tsx:308
+msgid "Site member"
+msgstr ""
+
+#: frontend/app.tsx:265
+msgid "Site scope"
+msgstr ""
+
+#: frontend/views.tsx:1751
+msgid "Site-wide delivery stop"
+msgstr ""
+
+#: frontend/app.tsx:199
+msgid "Skip to main content"
+msgstr ""
+
+#: frontend/blocks.tsx:137
+msgid "Slot"
+msgstr ""
+
+#: frontend/studio.tsx:967
+msgid "Slot container"
+msgstr ""
+
+#: frontend/studio.tsx:1020
+msgid "Slot counts and identities are not changed by presentation edits. The server protects published and commercially committed inventory."
+msgstr ""
+
+#: frontend/studio.tsx:631 frontend/views.tsx:280
+msgid "Slot identity"
+msgstr ""
+
+#: frontend/studio.tsx:484
+msgid "Slot navigator"
+msgstr ""
+
+#: frontend/studio.tsx:1007 frontend/views.tsx:542
+msgid "Square"
+msgstr ""
+
+#: frontend/studio.tsx:458
+msgid "Stable identities. No ads served in preview."
+msgstr ""
+
+#: frontend/studio.tsx:685 frontend/studio.tsx:1010
+msgid "Stable identity"
+msgstr ""
+
+#: frontend/views.tsx:1051 frontend/commerce.tsx:356
+msgid "Start time"
+msgstr ""
+
+#: frontend/studio.tsx:353
+msgid "Start with a zone"
+msgstr ""
+
+#: frontend/views.tsx:671
+msgid "Starts"
+msgstr ""
+
+#: frontend/studio.tsx:633 frontend/views.tsx:282 frontend/views.tsx:866 frontend/views.tsx:1670
+msgid "Status"
+msgstr ""
+
+#: frontend/views.tsx:741
+msgid "Stop"
+msgstr ""
+
+#: frontend/views.tsx:1752
+msgid "Stops advertising delivery across this site; does not alter payments."
+msgstr ""
+
+#: frontend/studio.tsx:378
+msgid "Structure"
+msgstr ""
+
+#: frontend/views.tsx:1203
+msgid "Submit for review"
+msgstr ""
+
+#: frontend/views.tsx:1257
+msgid "Submitted creative versions will appear here. Approval applies only to the exact reviewed version."
+msgstr ""
+
+#: frontend/views.tsx:1166
+msgid "Submitted version"
+msgstr ""
+
+#: frontend/blocks.tsx:215
+msgid "Supported server contexts only."
+msgstr ""
+
+#: frontend/views.tsx:895
+msgid "Suspend"
+msgstr ""
+
+#: frontend/views.tsx:924
+msgid "Suspend organization"
+msgstr ""
+
+#: frontend/views.tsx:926
+msgid "Suspension blocks eligible advertiser operations and delivery."
+msgstr ""
+
+#: frontend/commerce.tsx:410
+msgid "Tax policy"
+msgstr ""
+
+#: frontend/commerce.tsx:132
+msgid "Tax policy reference"
+msgstr ""
+
+#: frontend/commerce.tsx:443
+msgid "Temporary inventory hold"
+msgstr ""
+
+#: frontend/views.tsx:1173
+msgid "Text creative preview"
+msgstr ""
+
+#: frontend/views.tsx:1327
+msgid "Text is escaped on output. Approval is required before delivery."
+msgstr ""
+
+#: frontend/api.ts:62 frontend/api.ts:72 frontend/api.ts:92
+msgid "The API must use the same site origin."
+msgstr ""
+
+#: frontend/app.tsx:159
+msgid "The application needs the site REST URL, user capabilities, and a session nonce supplied by WordPress."
+msgstr ""
+
+#: frontend/studio.tsx:804
+msgid "The draft references the existing inventory. Publishing creates an immutable revision without replacing stable slot identities."
+msgstr ""
+
+#: src/Presentation/Rest.php:38
+msgid "The operation could not complete. Retry or check diagnostics."
+msgstr ""
+
+#: frontend/views.tsx:1492
+msgid "The publisher has not made any placements available yet. Check back when inventory is published."
+msgstr ""
+
+#: frontend/commerce.tsx:297
+msgid "The publisher must publish an applicable rate and tax policy before quoting this placement."
+msgstr ""
+
+#: frontend/commerce.tsx:435
+msgid "The quote expired. Request a fresh quote before reserving."
+msgstr ""
+
+#: frontend/commerce.tsx:320
+msgid "The quoted placement does not match your selection. Ask the publisher to review the rate."
+msgstr ""
+
+#: frontend/views.tsx:1250
+msgid "The review queue is clear"
+msgstr ""
+
+#: frontend/api.ts:116
+msgid "The server could not be reached. Your changes are still here. Try again."
+msgstr ""
+
+#: frontend/api.ts:124
+msgid "The server could not complete this request."
+msgstr ""
+
+#: frontend/views.tsx:795
+msgid "The server will verify the current state and your permission before applying this action. No financial adjustment is implied."
+msgstr ""
+
+#: frontend/blocks.tsx:192
+msgid "This configuration needs attention. Check the selected reference and supported context."
+msgstr ""
+
+#: frontend/studio.tsx:878
+msgid "This creates a published immutable revision. The server will recheck the saved draft version, inventory, and commercial impact before committing."
+msgstr ""
+
+#: frontend/commerce.tsx:70
+msgid "This is one fixed price for the entire selected booking window, not a daily rate. Published rate versions are immutable."
+msgstr ""
+
+#: frontend/ui.tsx:271
+msgid "This reason will be recorded with the action."
+msgstr ""
+
+#: frontend/ui.tsx:95
+msgid "This record changed on the server. Review the current version before saving again. Your form has been preserved."
+msgstr ""
+
+#: frontend/app.tsx:169
+msgid "This view is not available"
+msgstr ""
+
+#: frontend/commerce.tsx:399
+msgid "Total for the entire window"
+msgstr ""
+
+#: frontend/views.tsx:620
+msgid "Track campaign state independently from creative approval, payment, and delivery."
+msgstr ""
+
+#: frontend/views.tsx:2027
+msgid "Transactional storage"
+msgstr ""
+
+#: frontend/views.tsx:355
+msgid "Try a different search or remove your filters."
+msgstr ""
+
+#: frontend/ui.tsx:123
+msgid "Try again"
+msgstr ""
+
+#: frontend/views.tsx:2058
+msgid "Unavailable"
+msgstr ""
+
+#: frontend/views.tsx:1794
+msgid "Unavailable until the commerce adapter and financial certification are complete."
+msgstr ""
+
+#: frontend/studio.tsx:341
+msgid "Undo"
+msgstr ""
+
+#: frontend/ui.tsx:74
+msgid "Unknown"
+msgstr ""
+
+#: frontend/views.tsx:1948
+msgid "Unsaved changes"
+msgstr ""
+
+#: frontend/studio.tsx:739
+msgid "Unsaved layout changes. Save before validation."
+msgstr ""
+
+#: frontend/views.tsx:1169
+msgid "Untitled creative"
+msgstr ""
+
+#: frontend/views.tsx:166 frontend/views.tsx:1548
+msgid "Updated"
+msgstr ""
+
+#: frontend/views.tsx:1359
+msgid "Use an https:// website address."
+msgstr ""
+
+#: frontend/studio.tsx:251
+msgid "Validate"
+msgstr ""
+
+#: frontend/studio.tsx:279
+msgid "Validation needs attention"
+msgstr ""
+
+#: frontend/views.tsx:831
+msgid "Verification and suspension are audited organization decisions. Existing memberships remain the authority for advertiser actions."
+msgstr ""
+
+#: frontend/views.tsx:885
+msgid "Verify"
+msgstr ""
+
+#: frontend/views.tsx:923
+msgid "Verify organization"
+msgstr ""
+
+#: frontend/views.tsx:291
+msgid "Version"
+msgstr ""
+
+#: frontend/views.tsx:122
+msgid "View inventory"
+msgstr ""
+
+#: frontend/views.tsx:748
+msgid "View only"
+msgstr ""
+
+#: frontend/views.tsx:1471
+msgid "View rates & reserve"
+msgstr ""
+
+#: frontend/ui.tsx:121
+msgid "We couldn’t load this view"
+msgstr ""
+
+#: frontend/commerce.tsx:589
+msgid "When currency precision is absent, exact amounts are labeled in minor units. Pending payment does not imply eligible campaign delivery."
+msgstr ""
+
+#: frontend/views.tsx:2028
+msgid "WooCommerce integration"
+msgstr ""
+
+#: frontend/views.tsx:2029
+msgid "WordPress environment"
+msgstr ""
+
+#: frontend/studio.tsx:231 frontend/commerce.tsx:383 frontend/ui.tsx:291
+msgid "Working…"
+msgstr ""
+
+#: frontend/app.tsx:238 frontend/app.tsx:276
+msgid "Workspace"
+msgstr ""
+
+#: src/Presentation/Rest.php:24
+msgid "You do not have permission for this operation."
+msgstr ""
+
+#: frontend/views.tsx:1052 frontend/commerce.tsx:357
+msgid "Your browser’s local time zone."
+msgstr ""
+
+#: frontend/views.tsx:1249
+msgid "Your creative library starts here"
+msgstr ""
+
+#: frontend/app.tsx:171
+msgid "Your current permissions do not allow this view."
+msgstr ""
+
+#: frontend/views.tsx:93
+msgid "Your foundation"
+msgstr ""
+
+#: frontend/views.tsx:38
+msgid "Your inventory, campaigns, and next decisions in one place."
+msgstr ""
+
+#: frontend/views.tsx:1422
+msgid "Your orders"
+msgstr ""
+
+#: frontend/views.tsx:1669
+msgid "Your role"
+msgstr ""
+
+#: frontend/studio.tsx:514
+msgid "Your site"
+msgstr ""
+
+#: frontend/studio.tsx:679 frontend/views.tsx:284 frontend/views.tsx:465
+msgid "Zone"
+msgstr ""
+
+#: frontend/studio.tsx:710 frontend/views.tsx:105
+msgid "Zones"
+msgstr ""
+
+#: frontend/studio.tsx:375
+msgid "Zones and containers"
+msgstr ""
+
+#: frontend/blocks.tsx:229
+msgid "advertising"
+msgstr ""
+
+#: frontend/studio.tsx:584
+msgid "bounded preview"
+msgstr ""
+
+#: frontend/views.tsx:549
+msgid "columns"
+msgstr ""
+
+#: frontend/studio.tsx:972
+msgid "configured logical slots"
+msgstr ""
+
+#: frontend/studio.tsx:549
+msgid "configured logical slots. Select to inspect."
+msgstr ""
+
+#: frontend/studio.tsx:844
+msgid "containers"
+msgstr ""
+
+#: frontend/views.tsx:459
+msgid "e.g. Header grid"
+msgstr ""
+
+#: frontend/views.tsx:459
+msgid "e.g. Homepage"
+msgstr ""
+
+#: frontend/studio.tsx:815
+msgid "e.g. Homepage layout"
+msgstr ""
+
+#: frontend/commerce.tsx:349
+msgid "entire booking window"
+msgstr ""
+
+#: frontend/views.tsx:2048
+msgid "events waiting for processing"
+msgstr ""
+
+#: frontend/studio.tsx:327 frontend/studio.tsx:851 frontend/views.tsx:549
+msgid "logical slots"
+msgstr ""
+
+#: frontend/api.ts:236
+msgid "minor units"
+msgstr ""
+
+#: frontend/blocks.tsx:149 frontend/ui.tsx:214
+msgid "of"
+msgstr ""
+
+#: frontend/commerce.tsx:129
+msgid "one fixed booking window"
+msgstr ""
+
+#: frontend/blocks.tsx:229
+msgid "placement"
+msgstr ""
+
+#: frontend/blocks.tsx:148
+msgid "published placements"
+msgstr ""
+
+#: frontend/studio.tsx:584
+msgid "representative cells"
+msgstr ""
+
+#: frontend/ui.tsx:214
+msgid "results"
+msgstr ""
+
+#: frontend/views.tsx:550
+msgid "rows"
+msgstr ""
+
+#: frontend/studio.tsx:555
+msgid "slots"
+msgstr ""
+
+#: frontend/blocks.tsx:229
+msgid "sponsorship"
+msgstr ""
+
+#: frontend/studio.tsx:603
+msgid "synthetic preview"
+msgstr ""
+
+#: frontend/views.tsx:139
+msgid "waiting for an exact-version decision"
+msgstr ""
+
+#: frontend/studio.tsx:843
+msgid "zones"
+msgstr ""

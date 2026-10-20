@@ -1,0 +1,32 @@
+name: Development checks
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  source-and-domain:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        php: ['8.2', '8.3', '8.4', '8.5']
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: shivammathur/setup-php@eb7c497e18156a6bbabfef1d3a82760b9eda3962 # v2
+        with:
+          php-version: ${{ matrix.php }}
+          extensions: mbstring, zip
+          coverage: none
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: php scripts/plugin.php lint
+      - run: php tests/php/run.php
+      - run: npm ci
+      - run: npm run typecheck && npm test && npm run build
+      - run: php scripts/plugin.php package
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: adpilot-development-php-${{ matrix.php }}
+          path: dist/
+# Integration tests require a disposable local WordPress/InnoDB installation.
+# This workflow does not replace Woo, accessibility or release gates.
