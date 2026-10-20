@@ -62,5 +62,15 @@ assistive-technology matrices still require complete verification.
 == Changelog ==
 
 = 0.1.0 =
-* Initial development implementation with executable domain, REST, real DB
-  race and high-density rendering checks. Formal release approval pending.
+* Initial development preview of the publisher console, advertiser portal and
+  compact Layout Studio with stable slots and immutable layout publication.
+* Native text creative versions, exact-version moderation, organization-scoped
+  campaigns and explicit capacity-checked complimentary entitlements.
+* Exact fixed-window quotes, expiring idempotent holds, advertising orders and
+  synthetic settlement application logic; certified paid checkout remains gated.
+* Shared PHP, shortcode and dynamic-block rendering with a progressive public
+  runtime and nonbillable editor previews.
+* Site-scoped storage, capability checks, audit/outbox processing, diagnostics
+  and consent-gated nonbillable measurement.
+* PHP/frontend checks and deterministic runtime-only ZIP packaging. Complete
+  feature coverage and independent production release approval remain pending.

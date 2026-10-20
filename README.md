@@ -6,6 +6,8 @@ The repository includes a publisher console, an authenticated advertiser portal,
 
 **Current version: 0.1.0 — development preview.** The plugin is installable, but the complete 54-package implementation program is unfinished. Payment certification, private media uploads, several R1 workflows, and the R2–R4 subsystems remain outstanding. The [implementation ledger](docs/development/IMPLEMENTATION.md) records those boundaries; the original specifications describe the intended product, including features that are not yet available.
 
+See the [0.1.0 release notes](docs/releases/0.1.0.md) for the packaged features, installation guidance, build verification, and known limitations.
+
 ## Contents
 
 - [Current capabilities and boundaries](#current-capabilities-and-boundaries)
